@@ -1,0 +1,49 @@
+/* 
+-- 01 typography
+muliples of 2 and 8
+
+-- font weight:
+default 400
+
+
+-- line height:
+default 1
+
+-- 02 colors
+Primary  #e67e22
+
+Tints
+
+Shades
+
+Accents
+
+Neutrals
+#555
+
+-- 03 images
+unsplash.com 
+ui faces.com
+icon hero
+
+-- 04 shadows
+spread color transparencey
+
+-- 05 border radius
+
+-- 06 whitespace
+between images text components
+*/
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: sans-serif;
+  line-height: 1;
+  font-weight: 400;
+  color: #555;
+}
