@@ -1,6 +1,6 @@
 # OmniFood
 
-## Thank you for checking out this project. It was put together by Jonas Schmedtmann (https://codingheroes.io/) as part of his course on html 5 and css 3 and is the final project for the course.
+## Thank you for checking out this project. It was put together by Jonas Schmedtmann (https://codingheroes.io/) as part of his course on html 5 and css 3 and is the final project for the course. content.md, images provided by Jonas. 
 
 ## The idea was to put together a site for a fictional company using what we learned in the 37.5 lecture hour course. I am looking forward to using what I learned here in order to build my own full stack project for my portfolio.
 
@@ -8,7 +8,14 @@
 
 ---
 
--22 Mar 2022-
+-28 Mar 2022-
+
+Fair bit of progress over last couple of days. "Hero" and "How It Works" sections complete. Fun seeing it come together. 
+
+---
+
+
+-23 Mar 2022-
 
 Began the project by mapping out starter files and looking over the notes and materials provided by the client. Really excited for this project, here we go!
 
