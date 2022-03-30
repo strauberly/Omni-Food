@@ -8,6 +8,13 @@
 
 ---
 
+-29 Mar 2022-
+
+Completed featured in and meal example sections. Learning lots and enjoying animating in css3. Calls to some of my past experience and education in art, graphic design, and animation.
+
+---
+
+
 -28 Mar 2022-
 
 Fair bit of progress over last couple of days. "Hero" and "How It Works" sections complete. Fun seeing it come together. 
