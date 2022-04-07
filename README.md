@@ -8,6 +8,20 @@
 
 ---
 
+-7 April 2022-
+
+Wrapped up the course project today after programming the navigation and running a few tests and discussing optimization.
+
+Has been a really fun project and I can't wait to use what was learned in the process on my next project.
+
+The project is now currently hosted at:
+w
+https://624f4bb39e87c75d1bbec795--chimerical-halva-1dd950.netlify.app/
+
+## Thank you for checking it out! ^\_^
+
+---
+
 -6 April 2022-
 
 Finished responsiveness for phones and other small screens. Now it is on to just a bit of programming and deployment.
