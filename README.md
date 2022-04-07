@@ -17,7 +17,7 @@ Has been a really fun project and I can't wait to use what was learned in the pr
 The project is now currently hosted at:
 https://chimerical-halva-1dd950.netlify.app/
 
-## Thank you for checking it out! ^\_^
+## Thank you for checking it out! ^\_^.
 
 ---
 
