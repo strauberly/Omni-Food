@@ -15,10 +15,9 @@ Wrapped up the course project today after programming the navigation and running
 Has been a really fun project and I can't wait to use what was learned in the process on my next project.
 
 The project is now currently hosted at:
-w
-https://624f4bb39e87c75d1bbec795--chimerical-halva-1dd950.netlify.app/
+https://chimerical-halva-1dd950.netlify.app/
 
-## Thank you for checking it out! ^\_^
+## Thank you for checking it out! ^\_^.
 
 ---
 
